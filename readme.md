@@ -74,4 +74,15 @@ python Train_Two_2_TV.py
 
 <center><img src="img/2.png" alt="img" style="zoom:50%;" /></center>
 
-Our scheme achieved SOTA effect.
+Our scheme achieved SOTA performance.
+
+## Citation
+Please feel free to cite our [paper]{https://aclanthology.org/2022.bionlp-1.21/).
+
+    @inproceedings{li2022vpai_lab,
+      title={Vpai\_lab at medvidqa 2022: A two-stage cross-modal fusion method for medical instructional video classification},
+      author={Li, Bin and Weng, Yixuan and Xia, Fei and Sun, Bin and Li, Shutao},
+      booktitle={Proceedings of the 21st Workshop on Biomedical Language Processing},
+      pages={212--219},
+      year={2022}
+    }
